@@ -5,7 +5,7 @@ import com.snakeLadder.model.Player;
 
 import java.util.Scanner;
 
-public class Main {
+public class SnakeLadderApplication {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
